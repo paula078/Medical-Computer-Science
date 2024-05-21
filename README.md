@@ -7,3 +7,11 @@ The subject explains the role of computer science in modern medicine and introdu
 We delved into an innovative concept for gathering information about the interaction between the needle tip and tissue during percutaneous needle insertion. Unlike traditional imaging methods, which may be prone to artifacts, the sound-based approach has the potential to provide a greater amount of information.
 
 ## **Lab_2** "DICOM and Segmentation"
+
+
+## **Lab_3** "Medical Imaging Visualization"
+
+The exercises utilize the powerful 3D Slicer platform and VTK library to create detailed and interactive visualizations essential for medical diagnostics and research.
+- 3D Slicer Platform Integration
+- Iso-surface Visualization
+- Volume Rendering with Transfer Function Slider
