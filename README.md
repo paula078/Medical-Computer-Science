@@ -15,3 +15,10 @@ The exercises utilize the powerful 3D Slicer platform and VTK library to create 
 - 3D Slicer Platform Integration
 - Iso-surface Visualization
 - Volume Rendering with Transfer Function Slider
+
+
+## EEG Project 🧠
+
+The goal of this project was to develop a neural network capable of predicting a **probability distribution of harmful brain activities** based on **EEG (electroencephalogram) signals**.
+
+By analyzing EEG data, the model aims to assist in the early detection and classification of abnormal neural patterns, which could indicate potential neurological disorders or harmful brain states. 
